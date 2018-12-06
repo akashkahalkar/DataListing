@@ -9,16 +9,19 @@ GameDownload_PUBG_MOBILE_100103_1.0.5727.123.exe
 idman631build9.exe
 JavaSetup8u191.exe
 nox_setup_v6.2.5.0_full_intl.exe
+OOSU10.exe
 picasa-3-9-138-150-multi-win.exe
 Postman-win64-6.4.4-Setup.exe
 pycharm-community-2018.2.4.exe
 python-3.7.1-amd64.exe
 radeon-software-adrenalin-18.10.2-minimalsetup-181025_web.exe
+Rainmeter-4.2.exe
 SerialNumberDetectionTool.exe
 SHAREit-KCWEB.exe
 Sublime Text Build 3176 x64 Setup.exe
 Unity Pro 5.6.4 p2 (64bit) 2017 + Patch For Windos- [CrackzSoft].zip
 uTorrent.exe
 vlc-3.0.4-win64.exe
+VMware-player-12.5.9-7535481.exe
 Xcode_9.1.xip
 --EOD-- 
